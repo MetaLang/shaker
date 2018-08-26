@@ -4,3 +4,4 @@ shaker.o
 __test__library__
 libshaker.a
 dub.selections.json
+*.lib
